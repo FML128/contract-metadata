@@ -139,7 +139,7 @@
     "erc20": true,
     "symbol": "STKGHO",
     "decimals": 18
-  },  
+  },
   "0x536381a8628dBcC8C70aC9A30A7258442eAb4c92": {
     "name": "Pantos Token ",
     "logo": "pan.svg",
@@ -4919,6 +4919,13 @@
     "logo": "deUSD.svg",
     "erc20": true,
     "symbol": "deUSD",
+    "decimals": 18
+  },
+  "0xC114678C6e4654d041B2006C90f08478b444c4E2": {
+    "name": "edeXa",
+    "logo": "edeXa.svg",
+    "erc20": true,
+    "symbol": "EDX",
     "decimals": 18
   },
   "0x6E79B51959CF968d87826592f46f819F92466615": {
